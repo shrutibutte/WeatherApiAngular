@@ -1,0 +1,84 @@
+    
+    <nav nav class="navbar bg-primary" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Angular Weather API</a>
+      </div>
+    </nav>
+    
+    <div class="d-flex justify-content-center" id = "container1">
+    
+     
+      <div>
+        <h5>Select City</h5>
+    
+    
+        <select class="form-select" id="cityselect" aria-label="select city"
+          [(ngModel)]="city" name="city" required >
+     
+              <option value="Delhi">Delhi</option>
+              <option value="Mumbai">Mumbai</option>
+              <option value="Banglore">Banglore</option>
+              <option value="Delhi">Chennai</option>
+              <option value="Hyderabad">Hyderabad</option>
+              <option  value="Kolkata">Kolkata</option>
+              <option value="Surat">Surat</option>
+              <option value="Jaipur">Jaipur</option>
+              <option value="Chandigarh">Chandigarh</option>
+              <option value="Indore">Indore</option>
+        </select>
+        <button class="btn btn-success" style="margin-left: 0px;" (click)="getWeathers()">Get Data</button>
+
+    
+      </div>
+    
+      <div>
+      <div class="container">
+        <h5 class="para">Enter any other city </h5>
+        <input type="text" placeholder="Enter city name" [(ngModel)]="city"  class="input_feild"/>
+      </div>
+    
+      <button class="btn btn-primary" (click)="getWeathers()">Get Data</button>
+    
+
+      <div class="dataContainer"  >
+        <h2 class="heading" >Weather Information</h2>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label  class="col-sm-2 col-form-label">City</label>
+          <div class="col-sm-10">
+            <div  class="form-control"  >{{city}}</div>
+          </div>
+        </div>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label  class="col-sm-2 col-form-label">Temperature</label>
+          <div class="col-sm-10">
+            <div  class="form-control"  > {{ temperature }}</div>
+          </div>
+        </div>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label  class="col-sm-2 col-form-label">Country</label>
+          <div class="col-sm-10">
+            <div  class="form-control" > {{ country }}</div>
+          </div>
+        </div>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label class="col-sm-2 col-form-label">Humidity</label>
+          <div class="col-sm-10">
+            <div  class="form-control"  >{{ humidity }}</div>
+          </div>
+        </div>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label  class="col-sm-2 col-form-label">Description</label>
+          <div class="col-sm-10">
+            <div  class="form-control"  > {{ description }}</div>
+          </div>
+        </div>
+        <div class="form-group row" style="margin-bottom: 20px;">
+          <label  class="col-sm-2 col-form-label">Icon</label>
+          <div class="col-sm-10">
+            <div  class="form-control"  >{{icon}}</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    </div>

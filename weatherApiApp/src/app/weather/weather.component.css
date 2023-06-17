@@ -1,0 +1,93 @@
+#container1{
+    height: 40rem;
+    width: 75rem;
+    margin-top: 2rem;
+    margin-bottom: 20px;
+    margin-left: 7rem;
+    /* margin-right: 20px; */
+    
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    background-color: rgb(37, 85, 144);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+
+.form-select{
+    margin-top: 12px;
+    margin-right: 40px;
+    padding-left: 20px;
+    box-shadow:0cqmax 1rem 1rem rgba(1, 12, 23, 0.15);
+
+   
+}
+
+.form-control{
+
+    margin-right: 40px;
+    padding-left: 20px;
+    height: 35px;
+    box-shadow:0cqmax 1rem 1rem rgba(1, 12, 23, 0.15);
+}
+
+.input_feild{
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 50px;
+    height: 2.4rem;
+    width: 15rem;
+    box-shadow:0cqmax 1rem 1rem rgba(1, 12, 23, 0.15);
+
+    margin-top: 5px;
+    justify-content: center;
+}
+
+.para{
+    margin-left: 50px;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 50px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+ 
+    box-shadow:0cqmax 1rem 1rem rgba(1, 12, 23, 0.15);
+}
+
+
+
+.dataContainer{
+    height: 27rem;
+    width: 40rem;
+    box-shadow:0cqmax 1rem 1rem rgba(1, 12, 23, 0.15);
+    padding: 10px;
+    margin-left: -185px;
+    margin-top: 30px;
+    color:white
+    
+}
+
+
+
+
+
+
+
+.heading{
+    margin-left: 50px;
+     margin-bottom: 30px;
+     text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}

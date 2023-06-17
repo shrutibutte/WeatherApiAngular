@@ -1,0 +1,133 @@
+Ng Templates:    
+	Ng templates, also known as Angular templates or Angular template syntax, are a crucial 
+	part of Angular's 
+	declarative approach to building user interfaces. Templates allow you to define the 	
+	structure and layout of your application's views.  
+		By using ng templates, you can create reusable components, define data bindings between
+		the component's properties and the template, 
+
+Ng Container: 
+		provides a way to group multiple elements in a template without adding 
+		an extra element to the HTML output. It acts as a logical container for other elements, 
+		e ng-container will only be rendered if the "condition" is true.
+		
+Reactive forms: 
+		* Reactive forms in Angular provide a powerful way to build dynamic and interactive forms in your application.
+		* Use the FormGroup class to create a group of related form controls. 
+		* FormBuilder class provides a more concise and convenient way to create form controls and form groups.
+		
+
+Unit testing(jest) :Jest is a popular testing framework widely used in the JavaScript and TypeScript ecosystem, 
+                     including Angular projects. Jest is known for its simplicity, speed, and comprehensive 
+			feature set.
+		
+		
+Gridster:           
+	provides features like drag and drop support, resizing of items, grid snapping, 
+	responsive layouts, and callbacks for handling events.
+		   You can bind data to the grid items, dynamically create or remove items,										
+		
+Charts in Angular:
+		   Charts are a powerful way to visualize data in an intuitive  like Chart.js, ngx-charts, Highcharts, and Plotly.js.
+
+typeScript : 
+		TypeScript is a syntactic superset of JavaScript which adds static typing.		   
+		  It aims to enhance the development experience by catching errors and providing better tooling support during development.  
+		  
+		  
+Nrwl:     They are well-known for creating Nx, an extensible set of tools for monorepo development.
+          Nx is an open-source set of extensible development tools for creating and managing monorepos. 
+          
+          
+          Monorepos :
+              are repositories that contain multiple projects or applications within a single codebase. 	
+              
+              
+ Constructor : 
+ 		 is a special method that is invoked automatically at the time of object creation.     
+ 		 
+ ng-model:
+ 	 directive binds the value of the input field to the application variable name.	
+ 	 directive can provide type validation for application data (number, e-mail, required):
+ 	 The ng-model directive provides CSS classes for HTML elements, depending on their status:
+
+	 If the user changes the value inside the input field, the AngularJS property will also change its value:
+
+
+ ng-bind :
+ 	directive binds the content of the <p> element to the application variable name. 
+ 	The binding goes both ways. If the user changes the value inside the input field, the AngularJS property will also change its value:	 	         	  
+ 
+ 
+ ng-init : `	
+  	directive initializes AngularJS application variables	
+  	
+  	
+ Data binding:
+ 	in AngularJS is the synchronization between the model and the view.
+ 	
+ 	
+ data model :
+ 	is a collection of data available for the application.	
+ 
+ 
+controllers:
+	 control the data of AngularJS applications.	
+	 
+	 
+ngRoute:
+	 module helps your application to become a Single Page Application.
+
+	 
+
+---------------------------------------------------------------------------------
+
+good morning ,
+Firstly I would like to thanku you 
+for giving me this opertunity and it's my pleasure to introduse myself
+
+I am shruti Butte I am from Nanded,currently i am pursing Bachehelore of technology  
+department of  computer science from Mgm college of engii ,nanded ,maharastra
+
+I am interrest python, reactJs  
+and also good in  html,css ,bootstrap ,tailwind css and  i  can work on mongodb database akso 
+
+
+my good things are self motivated,fast learner and patience
+
+I have 3 month internship experinece also,
+currently i am working in tripo saint as full stack web developer i am working on frontend using reactjs and little bit backend also uisng mongodb 
+and graphql i am completing 2 month with and currently i am learning python fremwork flask 
+before this internship 
+
+I completed my internship with 11mantras company In this internship i worked on 
+E-Commerce website and I used ReactJS and bootstrap for UI design and i work on api also . 
+from my intenship i learn how to work with team , how to solve a problem and i also learn how to  complete a 
+task with in time  and how to work on real time project this type of things i learnt  from internship 
+  
+
+and i also created my portfoli website using html,css and javascript 
+in that website i mention all about my self in details manner 
+i hosted my website on netify platform also
+
+
+when i was in seconnd year i had particiapted in ideathon compitaion and i got select for final round of
+compitation i feel this is my achivement , and i got 1* on codechef platform in  python programming  
+
+thanku you  this ia all about my introduction
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
